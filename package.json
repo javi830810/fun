@@ -1,0 +1,17 @@
+{
+  "name": "preview-site",
+  "version": "0.1.0",
+  "author": "Javier de Paula",
+  "devDependencies": {
+    "grunt": "=0.4.1",
+    "grunt-contrib-concat": "=0.3.0",
+    "grunt-contrib-cssmin": "=0.6.1",
+    "grunt-contrib-jshint": "=0.6.0",
+    "grunt-contrib-nodeunit": "=0.2.0",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-uglify": "=0.2.2",
+    "grunt-contrib-watch": "=0.4.4",
+    "grunt-directives": "=0.1.2",
+    "grunt-sass": "^0.18.1"
+  }
+}

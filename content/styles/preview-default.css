@@ -1,0 +1,1 @@
+body{overflow:hidden;font-family:Helvetica;font-size:15px;overflow:auto}div.main{z-index:-1;position:fixed;width:110%;height:110%;background-repeat:no-repeat;background-size:cover;background-position:fixed}div.hideme{display:none}div.showme{display:block}div.loading{position:fixed;top:10px;left:10px;color:#fff;font-size:3em;background-color:rgba(100,64,75,.7)}
