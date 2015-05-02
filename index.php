@@ -1,6 +1,3 @@
-<?php
-require_once './php/util.php';
-?>
 <!doctype html>
 <html lang="en" class="no-js">
 <head>
@@ -26,50 +23,50 @@ require_once './php/util.php';
 <div class="loading">Scroll and see the magic!!!....</div>
 
  <!-- First Twelve -->
-<div id="1" class="main hideme" style='background-image:url(/content/images//a1.jpg)' data-rset="(between:0 and:550 rule:is_displayed)"></div>
-<div id="2" class="main hideme" style='background-image:url(/content/images//a2.jpg)' data-rset="(between:550 and:600 rule:is_displayed)"></div>
-<div id="3" class="main hideme" style='background-image:url(/content/images//a3.jpg)' data-rset="(between:600 and:650 rule:is_displayed)"></div>
-<div id="4" class="main hideme" style='background-image:url(/content/images//a4.jpg)' data-rset="(between:650 and:700 rule:is_displayed)"></div>
-<div id="5" class="main hideme" style='background-image:url(/content/images//a5.jpg)' data-rset="(between:700 and:750 rule:is_displayed)"></div>
-<div id="6" class="main hideme" style='background-image:url(/content/images//a6.jpg)' data-rset="(between:750 and:800 rule:is_displayed)"></div>
-<div id="7" class="main hideme" style='background-image:url(/content/images//a7.jpg)' data-rset="(between:800 and:850 rule:is_displayed)"></div>
-<div id="8" class="main hideme" style='background-image:url(/content/images//a8.jpg)' data-rset="(between:850 and:900 rule:is_displayed)"></div>
-<div id="9" class="main hideme" style='background-image:url(/content/images//a9.jpg)' data-rset="(between:900 and:1300 rule:is_displayed)"></div>
-<div id="10" class="main hideme" style='background-image:url(/content/images//a10.jpg)' data-rset="(between:1300 and:1350 rule:is_displayed)"></div>
-<div id="11" class="main hideme" style='background-image:url(/content/images//a11.jpg)' data-rset="(between:1350 and:1400 rule:is_displayed)"></div>
-<div id="12" class="main hideme" style='background-image:url(/content/images//a12.jpg)' data-rset="(between:1400 and:1450 rule:is_displayed)"></div>
+<div id="1" class="main hideme" style='background-image:url(/content/images/a1.jpg)' data-rset="(between:0 and:550 rule:is_displayed)"></div>
+<div id="2" class="main hideme" style='background-image:url(/content/images/a2.jpg)' data-rset="(between:550 and:600 rule:is_displayed)"></div>
+<div id="3" class="main hideme" style='background-image:url(/content/images/a3.jpg)' data-rset="(between:600 and:650 rule:is_displayed)"></div>
+<div id="4" class="main hideme" style='background-image:url(/content/images/a4.jpg)' data-rset="(between:650 and:700 rule:is_displayed)"></div>
+<div id="5" class="main hideme" style='background-image:url(/content/images/a5.jpg)' data-rset="(between:700 and:750 rule:is_displayed)"></div>
+<div id="6" class="main hideme" style='background-image:url(/content/images/a6.jpg)' data-rset="(between:750 and:800 rule:is_displayed)"></div>
+<div id="7" class="main hideme" style='background-image:url(/content/images/a7.jpg)' data-rset="(between:800 and:850 rule:is_displayed)"></div>
+<div id="8" class="main hideme" style='background-image:url(/content/images/a8.jpg)' data-rset="(between:850 and:900 rule:is_displayed)"></div>
+<div id="9" class="main hideme" style='background-image:url(/content/images/a9.jpg)' data-rset="(between:900 and:1300 rule:is_displayed)"></div>
+<div id="10" class="main hideme" style='background-image:url(/content/images/a10.jpg)' data-rset="(between:1300 and:1350 rule:is_displayed)"></div>
+<div id="11" class="main hideme" style='background-image:url(/content/images/a11.jpg)' data-rset="(between:1350 and:1400 rule:is_displayed)"></div>
+<div id="12" class="main hideme" style='background-image:url(/content/images/a12.jpg)' data-rset="(between:1400 and:1450 rule:is_displayed)"></div>
 
 <!-- Second Twelve -->
-<div id="13" class="main hideme" style='background-image:url(/content/images//a13.jpg)' data-rset="(between:1450 and:1500 rule:is_displayed)"></div>
-<div id="14" class="main hideme" style='background-image:url(/content/images//a14.jpg)' data-rset="(between:1500 and:1550 rule:is_displayed)"></div>
-<div id="15" class="main hideme" style='background-image:url(/content/images//a15.jpg)' data-rset="(between:1550 and:1600 rule:is_displayed)"></div>
-<div id="16" class="main hideme" style='background-image:url(/content/images//a16.jpg)' data-rset="(between:1600 and:1650 rule:is_displayed)"></div>
-<div id="17" class="main hideme" style='background-image:url(/content/images//a17.jpg)' data-rset="(between:1650 and:1700 rule:is_displayed)"></div>
-<div id="18" class="main hideme" style='background-image:url(/content/images//a18.jpg)' data-rset="(between:1700 and:1750 rule:is_displayed)"></div>
-<div id="19" class="main hideme" style='background-image:url(/content/images//a19.jpg)' data-rset="(between:1750 and:1800 rule:is_displayed)"></div>
-<div id="20" class="main hideme" style='background-image:url(/content/images//a20.jpg)' data-rset="(between:1800 and:1850 rule:is_displayed)"></div>
-<div id="21" class="main hideme" style='background-image:url(/content/images//a21.jpg)' data-rset="(between:1850 and:1900 rule:is_displayed)"></div>
-<div id="22" class="main hideme" style='background-image:url(/content/images//a22.jpg)' data-rset="(between:1900 and:1950 rule:is_displayed)"></div>
-<div id="23" class="main hideme" style='background-image:url(/content/images//a23.jpg)' data-rset="(between:1950 and:2000 rule:is_displayed)"></div>
-<div id="24" class="main hideme" style='background-image:url(/content/images//a24.jpg)' data-rset="(between:2000 and:2050 rule:is_displayed)"></div>
+<div id="13" class="main hideme" style='background-image:url(/content/images/a13.jpg)' data-rset="(between:1450 and:1500 rule:is_displayed)"></div>
+<div id="14" class="main hideme" style='background-image:url(/content/images/a14.jpg)' data-rset="(between:1500 and:1550 rule:is_displayed)"></div>
+<div id="15" class="main hideme" style='background-image:url(/content/images/a15.jpg)' data-rset="(between:1550 and:1600 rule:is_displayed)"></div>
+<div id="16" class="main hideme" style='background-image:url(/content/images/a16.jpg)' data-rset="(between:1600 and:1650 rule:is_displayed)"></div>
+<div id="17" class="main hideme" style='background-image:url(/content/images/a17.jpg)' data-rset="(between:1650 and:1700 rule:is_displayed)"></div>
+<div id="18" class="main hideme" style='background-image:url(/content/images/a18.jpg)' data-rset="(between:1700 and:1750 rule:is_displayed)"></div>
+<div id="19" class="main hideme" style='background-image:url(/content/images/a19.jpg)' data-rset="(between:1750 and:1800 rule:is_displayed)"></div>
+<div id="20" class="main hideme" style='background-image:url(/content/images/a20.jpg)' data-rset="(between:1800 and:1850 rule:is_displayed)"></div>
+<div id="21" class="main hideme" style='background-image:url(/content/images/a21.jpg)' data-rset="(between:1850 and:1900 rule:is_displayed)"></div>
+<div id="22" class="main hideme" style='background-image:url(/content/images/a22.jpg)' data-rset="(between:1900 and:1950 rule:is_displayed)"></div>
+<div id="23" class="main hideme" style='background-image:url(/content/images/a23.jpg)' data-rset="(between:1950 and:2000 rule:is_displayed)"></div>
+<div id="24" class="main hideme" style='background-image:url(/content/images/a24.jpg)' data-rset="(between:2000 and:2050 rule:is_displayed)"></div>
 
 
 <!-- Third Twelve -->
 
-<div id="25" class="main hideme" style='background-image:url(/content/images//a25.jpg)' data-rset="(between:2050 and:2100 rule:is_displayed)"></div>
-<div id="26" class="main hideme" style='background-image:url(/content/images//a26.jpg)' data-rset="(between:2100 and:2150 rule:is_displayed)"></div>
-<div id="27" class="main hideme" style='background-image:url(/content/images//a27.jpg)' data-rset="(between:2150 and:2200 rule:is_displayed)"></div>
-<div id="28" class="main hideme" style='background-image:url(/content/images//a28.jpg)' data-rset="(between:2200 and:4000 rule:is_displayed)"></div>
+<div id="25" class="main hideme" style='background-image:url(/content/images/a25.jpg)' data-rset="(between:2050 and:2100 rule:is_displayed)"></div>
+<div id="26" class="main hideme" style='background-image:url(/content/images/a26.jpg)' data-rset="(between:2100 and:2150 rule:is_displayed)"></div>
+<div id="27" class="main hideme" style='background-image:url(/content/images/a27.jpg)' data-rset="(between:2150 and:2200 rule:is_displayed)"></div>
+<div id="28" class="main hideme" style='background-image:url(/content/images/a28.jpg)' data-rset="(between:2200 and:4000 rule:is_displayed)"></div>
 
 <!--
-<div id="29" class="main hideme" style='background-image:url(/content/images//a29.jpg)' data-rset="(between:2250 and:2300 rule:is_displayed)"></div>
-<div id="30" class="main hideme" style='background-image:url(/content/images//a30.jpg)' data-rset="(between:2300 and:2350 rule:is_displayed)"></div>
-<div id="31" class="main hideme" style='background-image:url(/content/images//a31.jpg)' data-rset="(between:2350 and:2400 rule:is_displayed)"></div>
-<div id="32" class="main hideme" style='background-image:url(/content/images//a32.jpg)' data-rset="(between:2400 and:2450 rule:is_displayed)"></div>
-<div id="33" class="main hideme" style='background-image:url(/content/images//a33.jpg)' data-rset="(between:2450 and:2500 rule:is_displayed)"></div>
-<div id="34" class="main hideme" style='background-image:url(/content/images//a34.jpg)' data-rset="(between:2500 and:2550 rule:is_displayed)"></div>
-<div id="35" class="main hideme" style='background-image:url(/content/images//a35.jpg)' data-rset="(between:2550 and:2600 rule:is_displayed)"></div>
-<div id="36" class="main hideme" style='background-image:url(/content/images//a36.jpg)' data-rset="(between:2600 and:4000 rule:is_displayed)"></div>
+<div id="29" class="main hideme" style='background-image:url(/content/images/a29.jpg)' data-rset="(between:2250 and:2300 rule:is_displayed)"></div>
+<div id="30" class="main hideme" style='background-image:url(/content/images/a30.jpg)' data-rset="(between:2300 and:2350 rule:is_displayed)"></div>
+<div id="31" class="main hideme" style='background-image:url(/content/images/a31.jpg)' data-rset="(between:2350 and:2400 rule:is_displayed)"></div>
+<div id="32" class="main hideme" style='background-image:url(/content/images/a32.jpg)' data-rset="(between:2400 and:2450 rule:is_displayed)"></div>
+<div id="33" class="main hideme" style='background-image:url(/content/images/a33.jpg)' data-rset="(between:2450 and:2500 rule:is_displayed)"></div>
+<div id="34" class="main hideme" style='background-image:url(/content/images/a34.jpg)' data-rset="(between:2500 and:2550 rule:is_displayed)"></div>
+<div id="35" class="main hideme" style='background-image:url(/content/images/a35.jpg)' data-rset="(between:2550 and:2600 rule:is_displayed)"></div>
+<div id="36" class="main hideme" style='background-image:url(/content/images/a36.jpg)' data-rset="(between:2600 and:4000 rule:is_displayed)"></div>
  -->
 <!--
 
@@ -100,17 +97,17 @@ require_once './php/util.php';
 	<div class="finish c6"  data-seq="(steps:[1800 3000] set:(top:{100% -5%})">
 		<div class="students" >
 			<div class="student" data-seq="(steps:[1800 3000] set:(top:{-210% 15%})">
-				<div class="picture"><img src="/../content/images//ui/student1.jpeg" /></div>
+				<div class="picture"><img src="/../content/images/ui/student1.jpeg" /></div>
 				<div class="text t2">Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles, weebly ning heekya handango imeem plugg dopplr jibjab, movity jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle quora plaxo ideeli hulu weebly balihoo kno vimeo zlio voxy zinch</div>
 			</div>
 
 			<div class="student" style="top:40%" data-seq="(steps:[1800 3000] set:(left:{-200% 5%})">
-				<div class="picture"><img src="/../content/images//ui/student2.jpeg" /></div>
+				<div class="picture"><img src="/../content/images/ui/student2.jpeg" /></div>
 				<div class="text t2">Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles, weebly ning heekya handango imeem plugg dopplr jibjab, movity jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle quora plaxo ideeli hulu weebly balihoo kno vimeo zlio voxy zinch</div>
 			</div>
 
 			<div class="student" data-seq="(steps:[1800 3000] set:(top:{300% 65%})">
-				<div class="picture"><img src="/../content/images//ui/student3.jpeg" /></div>
+				<div class="picture"><img src="/../content/images/ui/student3.jpeg" /></div>
 				<div class="text t2">Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles, weebly ning heekya handango imeem plugg dopplr jibjab, movity jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle quora plaxo ideeli hulu weebly balihoo kno vimeo zlio voxy zinch</div>
 			</div>
 		</div>
